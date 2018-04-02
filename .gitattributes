@@ -1,2 +1,14 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+> var x = 5
+> var y = 3
+> var z = x * y
+> var s = 2
+> var t = 9
+> var e = s - t
+> var a = 1
+> var b = 4
+> var c = a / b
+> var d = 8
+> var m = 7
+> var n = d + m
