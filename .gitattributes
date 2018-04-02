@@ -1,5 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!doctype html>
 <html>
 <script>
 > var x = 5
@@ -18,5 +17,5 @@
 > var w = "Elizabeth"
 > var l = " Light"
 "v " + "w " + "l "
-</html>
 </script>
+</html>
