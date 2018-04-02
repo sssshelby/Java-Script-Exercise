@@ -16,6 +16,8 @@
 > var v = "Shelby"
 > var w = "Elizabeth"
 > var l = " Light"
-"v " + "w " + "l "
+> var name = "v " + "w " + "l "
+>"may name is" + name
+> "hi" "may name is" + name
 </script>
 </html>
