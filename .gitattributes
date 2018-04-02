@@ -4,6 +4,7 @@
 > var x = 5
 > var y = 3
 > var z = x * y
+console.log
 > var s = 2
 > var t = 9
 > var e = s - t
