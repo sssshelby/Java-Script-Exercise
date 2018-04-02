@@ -8,17 +8,24 @@ console.log
 > var s = 2
 > var t = 9
 > var e = s - t
+console.log
 > var a = 1
 > var b = 4
 > var c = a / b
+console.log
 > var d = 8
 > var m = 7
 > var n = d + m
+console.log
 > var v = "Shelby"
 > var w = "Elizabeth"
 > var l = " Light"
 > var name = "v " + "w " + "l "
 >"may name is" + name
 > "hi" "may name is" + name
+console.log
+function squared (2)
+return (2*2)
+function full name (v + w +l )
 </script>
 </html>
